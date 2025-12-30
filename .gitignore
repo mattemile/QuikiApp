@@ -43,3 +43,7 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# File di analisi e documentazione di sviluppo
+ANALYSIS.md
+GUIDA_ICONE.md
